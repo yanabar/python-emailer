@@ -1,0 +1,4 @@
+#add email list in here - format should be like the examples below
+tom.jones@gmail.com, Tom Jones
+maria.jones@windowslive.com, Maria Jones
+samantha.buer@gmail.com, Samantha Buer
